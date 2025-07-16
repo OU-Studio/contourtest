@@ -2,7 +2,6 @@
   "name": "elevation-proxy",
   "version": "1.0.0",
   "main": "elevation-proxy.js",
-  "type": "module",
   "scripts": {
     "start": "node elevation-proxy.js"
   },
